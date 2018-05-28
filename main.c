@@ -8,4 +8,5 @@
 main()
 {
     printf("Refreshing C commands.\n\n");
+    scanf("What is your name?");
 }
